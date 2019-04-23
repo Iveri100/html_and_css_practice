@@ -3,17 +3,18 @@
     color:white;
     border-radius: 8px;
   }
-.button2 {
-    background-color:white;
-    color:black;
+.ghost-button:active {
+    background-color: #fff;
+    color: #000;
     border-radius: 8px;
   }
-.button3 {
-    background-color:white;
-    color:black;
+.ghost-button1:active {
+    background-color: #fff;
+    color: #000;
     border-radius: 8px;
   }
 .button4 {
+    
     background-color:white;
     color:red;
     border-radius: 8px;
